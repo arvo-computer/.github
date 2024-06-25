@@ -1,9 +1,9 @@
-<p>AR.VO RDK Hardware (Zen-2 / RISC-V)
+<p>AR.VO RDK Hardware
 <blockquote>
      Launch (AMD Zen-2 7nm)<br>
      Envision (RISC-V, ARM)</blockquote></p>
 
-<p>AR.VO SDK Software (AOSP / TRON)
+<p>AR.VO SDK Software
 <blockquote>
      AOSP (Android Open Source Project, Europe/America)<br>
      TRON (The Real-time Operating system Nucleus, Japan)<br>
@@ -15,7 +15,7 @@
      HSM Integration (PCI DSS)<br>
      X.509 Integration (ECC PKI CA OCSP TSP NS LDAP)</blockquote></p>
 
-<p>AR.VO SECT (Sustainable Economy and Community Transactions)
+<p>AR.VO Sustainable Economy and Community Transactions
 <blockquote>
      Git protocol for governance<br>
      DAO membership<br>
