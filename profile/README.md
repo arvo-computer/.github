@@ -17,9 +17,9 @@
 
 <p>AR.VO Sustainable Economy and Community Transactions
 <blockquote>
-     Git protocol for governance<br>
+     DHT protocol for governance<br>
      DAO membership<br>
-     Digital assets market policies (cognitive services: AV/3D/text)<br>
+     Assets markets and policies (cognitive services: AV/3D/text)<br>
      X12 financial gateway</blockquote></p>
 
 <p>AR.VO Governance
