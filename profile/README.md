@@ -24,5 +24,7 @@
 
 <p>AR.VO Governance
 <blockquote>
+     Security<br>
      Policies<br>
+     Business Processes<br>
      Traceability</blockquote></p>
