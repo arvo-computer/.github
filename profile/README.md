@@ -1,9 +1,9 @@
-<p>AR.VO RDK Hardware Reference Design Kit
+<p>AR.VO Hardware Reference Design Kit (RDK)
 <blockquote>
      Launch (AMD Zen-2 7nm)<br>
      Envision (RISC-V, ARM)</blockquote></p>
 
-<p>AR.VO SDK Software Development Kit
+<p>AR.VO Software Development Kit (SDK)
 <blockquote>
      AOSP (Android Open Source Project, Europe/America)<br>
      TRON (The Real-time Operating system Nucleus, Japan)<br>
